@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "contrast" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "es-CO"
 title                    : "Fernando Gómez"
 title_separator          : "-"
 subtitle                 : "Investigador en economía de la salud - Gerencia de proyecto - Docente"
