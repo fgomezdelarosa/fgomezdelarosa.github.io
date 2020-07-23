@@ -97,11 +97,17 @@ author:
   avatar           :  https://avatars3.githubusercontent.com/u/63734626?s=460&u=cef30a8e19cbdd809063253fc686bca42c16bf1c&v=4
   bio              : " *Información de contactos* "
   location         : "Cartagena - Colombia"
-  email            : "fgomezdelarosa@outlook.com"
+  email            : #"fgomezdelarosa@outlook.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: "mailto:fgomezdelarosa@outlook.com"
+      url: "mailto:fgomezdelarosa@outlook.com"
+    - label: " LinkeIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/fgomezdelarosa/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/fgomezdelarosa"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -111,12 +117,8 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/fgomezdelarosa"
-    - label: " LinkeIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/fgomezdelarosa/"
+
+
       
 
 # Site Footer
