@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "contrast" #"default" # "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Investigador en economía de la salud - Gerencia de proyecto - Docente"
+title                    : "Portafolio"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Investigador en economía de la salud - Gerencia de proyecto - Docente"
 name                     : "Fernando Gómez De la Rosa"
 description              : "Un sitio para conocer un poco de mi y el aprendizaje en Python"
 url                      : "https://fgomezdelarosa.github.io"
