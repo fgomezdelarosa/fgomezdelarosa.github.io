@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Investigador en economía de la salud - Gerencia de proyecto - Docente"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Fernando Gomez De la Rosa"
+name                     : "Fernando Gómez De la Rosa"
 description              : "Un sitio para conocer un poco de mi y el aprendizaje en Python"
 url                      : "https://fgomezdelarosa.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -94,26 +94,26 @@ analytics:
 # Site Author
 author:
   name             : "Fernando Gómez De la Rosa"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :  https://avatars3.githubusercontent.com/u/63734626?s=460&u=cef30a8e19cbdd809063253fc686bca42c16bf1c&v=4
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Cartagena - Colombia"
+  email            : "fgomezdelarosa@outlook.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:fgomezdelarosa@outlook.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/fgomezdelarosa_"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/fgomezdelarosa"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
