@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Fernando Gómez" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Fernando Gómez De la Rosa"
   avatar           :  https://avatars3.githubusercontent.com/u/63734626?s=460&u=cef30a8e19cbdd809063253fc686bca42c16bf1c&v=4
-  bio              : " *Link de contactos* "
+  bio              : " *Información de contactos* "
   location         : "Cartagena - Colombia"
   email            : "fgomezdelarosa@outlook.com"
   links:
@@ -114,9 +114,10 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/fgomezdelarosa"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "LinkeIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/fgomezdelarosa/"
+      
 
 # Site Footer
 footer:
