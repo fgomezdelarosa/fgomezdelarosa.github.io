@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Fernando Gómez De la Rosa"
   avatar           :  https://avatars3.githubusercontent.com/u/63734626?s=460&u=cef30a8e19cbdd809063253fc686bca42c16bf1c&v=4
-  bio              : " *Información de contacto* "
+  bio              : " *Contacto & Redes* "
   location         : "Cartagena - Colombia"
   email            : #"fgomezdelarosa@outlook.com"
   links:
@@ -105,12 +105,12 @@ author:
     - label: " LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/fgomezdelarosa/"
+    - label: "CvLAC"
+      icon: "fas fa-fw fa-link"
+      url: "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001593605"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/fgomezdelarosa"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/fgomezdelarosa_"
