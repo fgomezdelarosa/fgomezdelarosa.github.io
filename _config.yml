@@ -102,7 +102,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:fgomezdelarosa@outlook.com"
-    - label: " LinkeIn"
+    - label: " LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/fgomezdelarosa/"
     - label: "GitHub"
