@@ -4,7 +4,19 @@ layout: archive
 permalink: /about/acerca/
 author_profile: true
 classes: wide
-
+gallery:
+  - url: /about/imagen/tesis.jpg
+    image_path: /about/imagen/tesis.jpg
+    alt: "placeholder image 1"
+    title: "Sustentación tesis maestría"
+  - url: /about/imagen/ispor.jpg
+    image_path: /about/imagen/ispor.jpg
+    alt: "placeholder image 2"
+    title: "Poster publicado"
+  - url: /about/imagen/ispor1.jpg
+    image_path: /about/imagen/ispor1.jpg
+    alt: "placeholder image 3"
+    title: "Segundo Ispor"
 ---
 
 Este espacio lo desarrollo como un producto tangible dada la educación continua en ámbitos de programación, análisis de datos y repositorio sobre las investigaciones de economía de la salud en las que participe. A su vez, como una forma de mostrar los pasos que iré dando en **Python** aplicado a los conceptos que se emplean en las investigaciones y los cursos que vaya impartiendo en mi desarrollo profesional. 
@@ -24,6 +36,8 @@ Manejo diferentes programas informáticos enfocados a análisis estadístico de 
 
 Para mayor información pueden contactarme a mi número de celular +573013706672 o visitando mis redes profesionales. Para conocer las publicaciones cientificas en las que he participado, pueden acceder a mi curriulum en el siguiente enlace [CvLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001593605 "CvLAC")
 {: style="text-align: justify;"}
+
+{% include gallery caption="Sustentación maestría y eventos científicos **Markdown support**." %}
 
 ## Educación formal
 
