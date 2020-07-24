@@ -29,25 +29,25 @@ Para mayor información pueden contactarme a mi número de celular +573013706672
 
 Titulos de pregrado, postgrado y cursos complementarios obtenidos.
 
-| Año   | Titulo                              | Universidad            |
-| ----  | ----------------------------------- | ---------------------- |
-| 2019  | Maestría en economía                | Universidad del Norte  |
-| 2013  | Esp. Gerencia de proyectos          | Tecnológica de Bolívar |
-| 2009  | Finanzas y negocios internacionales | Tecnológica de Bolívar |
+| Año   | Titulo                                             | Universidad            |
+| ----  | -------------------------------------------------- | ---------------------- |
+| 2019  | Maestría en economía                               | Universidad del Norte  |
+| 2013  | Esp. Gerencia de proyectos                         | Tecnológica de Bolívar |
+| 2009  | Profesional en Finanzas y negocios internacionales | Tecnológica de Bolívar |
+| 2015  | Diplomado en Docencia Universitaria                | Tecnológica de Bolívar |
 
 ### Formación complementaria
 
-| Año   | Certificación                                        | Entidad que emite diploma |
-| ----  | ---------------------------------------------------- | ------------------------- |
-| 2020  | [Machine learning aplicado con Python](https://platzi.com/@fgomezdelarosa/curso/1178-scikit/diploma/detalle/ "ML")                 | Platzi                    |
-| 2020  | Fundamentos matemáticos para Inteligencia Artificial | Platzi                    |
-| 2020  | Ingeniería de Datos con Python                       | Platzi                    |
-| 2020  | Manipulación y análisis de datos con Pandas y Python | Platzi                    |
-| 2020  | Estadística y análisis de datos con Python           | Platzi                    |
-| 2020  | Pensamiento Computacional con Python                 | Platzi                    |
-| 2020  | Expresiones regulares                                | Platzi                    |
-| 2020  | Curso Python                                         | Platzi                    |
-| 2015  | Diplomado en Docencia Universitaria                  | Tecnológica de Bolívar    |
+| Año   | Certificación                                                                                                                         | Entidad que emite diploma |
+| ----  | ---------------------------------------------------                                                                 --------------    | ------------------------- |
+| 2020  | [Machine learning aplicado con Python](https://platzi.com/@fgomezdelarosa/curso/1178-scikit/diploma/detalle/ "ML")                    | Platzi                    |
+| 2020  | [Fundamentos matemáticos para Inteligencia Artificial](https://platzi.com/@fgomezdelarosa/curso/1729-matematicas-ai/diploma/detalle/) | Platzi                    |
+| 2020  | [Ingeniería de Datos con Python](https://platzi.com/@fgomezdelarosa/curso/1385-ingenieria-datos/diploma/detalle/)                     | Platzi                    |
+| 2020  | [Manipulación y análisis de datos con Pandas y Python](https://platzi.com/@fgomezdelarosa/curso/1794-pandas/diploma/detalle/)         | Platzi                    |
+| 2020  | [Estadística y análisis de datos con Python](https://platzi.com/@fgomezdelarosa/curso/1745-estadistica-python/diploma/detalle/)       | Platzi                    |
+| 2020  | [Pensamiento Computacional con Python](https://platzi.com/@fgomezdelarosa/curso/1764-python-cs/diploma/detalle/)                      | Platzi                    |
+| 2020  | [Expresiones regulares](https://platzi.com/@fgomezdelarosa/curso/1301-expresiones-regulares/diploma/detalle/)                         | Platzi                    |
+| 2020  | [Curso Python](https://platzi.com/@fgomezdelarosa/curso/1104-python/diploma/detalle/)                                                 | Platzi                    |
 
 ### Idiomas
 
