@@ -34,7 +34,7 @@ Mis áreas de experiencia son la Econometría, logística, coordinación, análi
 Manejo diferentes programas informáticos enfocados a análisis estadístico de datos: *Python, Stata, Excel y PowerBI*. Para la redacción de documentos: *LaTex, Microsoft Word*; y para la gestión bibliográficas: *Mendeley y EndNote*. En la actualidad me desempeño como coordinador de proyectos en economia de la salud y como analista de datos en [ALZAK Foundation](https://alzakfoundation.org/ "Alzak link"), apoyando la elaboracion de proyectos enfocados al apoyo al asegurador en cuanto a la elaboración de notas técnicas predictivas basadas en modelos de atención integral, análisis de programas en salud y análisis de “big data”. 
 {: style="text-align: justify;"}
 
-Para mayor información pueden contactarme a mi número de celular +573013706672 o visitando mis redes profesionales. Para conocer las publicaciones cientificas en las que he participado, pueden acceder a mi curriulum en el siguiente enlace [CvLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001593605 "CvLAC")
+Para mayor información pueden contactarme a mi número de celular +573013706672 o visitando mis redes profesionales. Para conocer las publicaciones cientificas en las que he participado, pueden acceder a mi curriulum en el enlace [CvLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001593605 "CvLAC") o de [Google Scholar](https://scholar.google.es/citations?hl=es&user=FoEAZEwAAAAJ "Scholar").
 {: style="text-align: justify;"}
 
 {% include gallery caption="*Sustentación maestría y presencia en eventos científicos*." %}
