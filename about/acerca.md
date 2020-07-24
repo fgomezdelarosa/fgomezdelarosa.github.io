@@ -7,7 +7,7 @@ classes: wide
 
 ---
 
-Este espacio lo desarrollo como un producto tangible dada la educación continua en ámbitos de programación, análisis de datos y repositorio sobre las investigaciones de economía de la salud en las que participe. A su vez, como una forma de mostrar los pasos que iré dando en **Python** aplicado a los conceptos que se aplican en las investigaciones y los cursos que vaya impartiendo en mi desarrollo profesional. 
+Este espacio lo desarrollo como un producto tangible dada la educación continua en ámbitos de programación, análisis de datos y repositorio sobre las investigaciones de economía de la salud en las que participe. A su vez, como una forma de mostrar los pasos que iré dando en **Python** aplicado a los conceptos que se emplean en las investigaciones y los cursos que vaya impartiendo en mi desarrollo profesional. 
 {: style="text-align: justify;"}
 
 ## Resumen de currículo
@@ -19,13 +19,13 @@ Desde el **2015** me he dedicado a ser un profesional independiente construyendo
 Mis áreas de experiencia son la Econometría, logística, coordinación, análisis y procesamiento de datos, los estudios de costos, notas técnicas de aseguradoras, análisis de propuestas de contratación y estudios de carga económica. También cuento con experiencia en docencia en módulos de proyectos, economía y habilidades gerenciales. Soy miembro del *Grupo de Investigación en Economía de la Salud* (GIES) de la Universidad de Cartagena y tengo artículos científicos publicados en revistas nacionales e internacionales.
 {: style="text-align: justify;"}
 
-Manejo diferentes programas informáticos enfocados a análisis estadístico de datos: *Python, Stata, Excel*. Para la redacción de documentos: $LaTex$, *Microsoft Word*; y para la gestión bibliográficas: *Mendeley y EndNote*. En la actualidad me desempeño como coordinador de proyectos en economia de la salud y como analista de datos en la Fundación ALZAK, apoyando la elaboracion de proyectos enfocados al apoyo al asegurador en cuanto a la elaboración de notas técnicas predictivas basadas en modelos de atención integral, análisis de programas en salud y análisis de “big data”. 
+Manejo diferentes programas informáticos enfocados a análisis estadístico de datos: *Python, Stata, Excel y PowerBI*. Para la redacción de documentos: *LaTex, Microsoft Word*; y para la gestión bibliográficas: *Mendeley y EndNote*. En la actualidad me desempeño como coordinador de proyectos en economia de la salud y como analista de datos en [ALZAK Foundation](https://alzakfoundation.org/ "Alzak link"), apoyando la elaboracion de proyectos enfocados al apoyo al asegurador en cuanto a la elaboración de notas técnicas predictivas basadas en modelos de atención integral, análisis de programas en salud y análisis de “big data”. 
 {: style="text-align: justify;"}
 
 Para mayor información pueden contactarme a mi número de celular +573013706672 o visitando mis redes profesionales.
 {: style="text-align: justify;"}
 
-# Educación formal
+## Educación formal
 
 Titulos de pregrado, postgrado y cursos complementarios obtenidos.
 
@@ -35,20 +35,26 @@ Titulos de pregrado, postgrado y cursos complementarios obtenidos.
 | 2013  | Esp. Gerencia de proyectos          | Tecnológica de Bolívar |
 | 2009  | Finanzas y negocios internacionales | Tecnológica de Bolívar |
 
-## Cursos complementarios
+### Formación complementaria
 
-| Año   | Titulo                              | Entidad que emite diploma |
-| ----  | ----------------------------------- | ------------------------- |
-| 2020  | Maestría en economía                | Platzi     |
-| 2020  | Esp. Gerencia de proyectos          | Tecnológica de Bolívar    |
-| 2015  | Diplomado en Docencia Universitaria | Tecnológica de Bolívar    |
+| Año   | Certificación                                        | Entidad que emite diploma |
+| ----  | ---------------------------------------------------- | ------------------------- |
+| 2020  | [Machine learning aplicado con Python](https://platzi.com/@fgomezdelarosa/curso/1178-scikit/diploma/detalle/ "ML")                 | Platzi                    |
+| 2020  | Fundamentos matemáticos para Inteligencia Artificial | Platzi                    |
+| 2020  | Ingeniería de Datos con Python                       | Platzi                    |
+| 2020  | Manipulación y análisis de datos con Pandas y Python | Platzi                    |
+| 2020  | Estadística y análisis de datos con Python           | Platzi                    |
+| 2020  | Pensamiento Computacional con Python                 | Platzi                    |
+| 2020  | Expresiones regulares                                | Platzi                    |
+| 2020  | Curso Python                                         | Platzi                    |
+| 2015  | Diplomado en Docencia Universitaria                  | Tecnológica de Bolívar    |
 
-## Idiomas
+### Idiomas
 
-| Año   | Idioma     | Curso                | Entidad que emite diploma             |
-| ----  | ---------- | -------------------- | ------------------------------------- |
-| 2014  | **Ingles** |  Contemporary topics | Uceda International Institute. NJ-USA |
-| 2014  | **Ingles** | Avnazado (B2)        | Instituto Colombo Americano           |
+| Año   | Idioma     | Curso               | Entidad que emite diploma             |
+| ----  | ---------- | ------------------- | ------------------------------------- |
+| 2014  | **Ingles** | Contemporary topics | Uceda International Institute. NJ-USA |
+| 2014  | **Ingles** | Avnazado (B2)       | Instituto Colombo Americano           |
 
 ### Header three
 
