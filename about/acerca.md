@@ -19,11 +19,36 @@ Desde el **2015** me he dedicado a ser un profesional independiente construyendo
 Mis áreas de experiencia son la Econometría, logística, coordinación, análisis y procesamiento de datos, los estudios de costos, notas técnicas de aseguradoras, análisis de propuestas de contratación y estudios de carga económica. También cuento con experiencia en docencia en módulos de proyectos, economía y habilidades gerenciales. Soy miembro del *Grupo de Investigación en Economía de la Salud* (GIES) de la Universidad de Cartagena y tengo artículos científicos publicados en revistas nacionales e internacionales.
 {: style="text-align: justify;"}
 
+Manejo diferentes programas informáticos enfocados a análisis estadístico de datos: *Python, Stata, Excel*. Para la redacción de documentos: $LaTex$, *Microsoft Word*; y para la gestión bibliográficas: *Mendeley y EndNote*. En la actualidad me desempeño como coordinador de proyectos en economia de la salud y como analista de datos en la Fundación ALZAK, apoyando la elaboracion de proyectos enfocados al apoyo al asegurador en cuanto a la elaboración de notas técnicas predictivas basadas en modelos de atención integral, análisis de programas en salud y análisis de “big data”. 
+{: style="text-align: justify;"}
+
 Para mayor información pueden contactarme a mi número de celular +573013706672 o visitando mis redes profesionales.
 {: style="text-align: justify;"}
+
 # Educación formal
 
-## Header two
+Titulos de pregrado, postgrado y cursos complementarios obtenidos.
+
+| Año   | Titulo                              | Universidad            |
+| ----  | ----------------------------------- | ---------------------- |
+| 2019  | Maestría en economía                | Universidad del Norte  |
+| 2013  | Esp. Gerencia de proyectos          | Tecnológica de Bolívar |
+| 2009  | Finanzas y negocios internacionales | Tecnológica de Bolívar |
+
+## Cursos complementarios
+
+| Año   | Titulo                              | Entidad que emite diploma |
+| ----  | ----------------------------------- | ------------------------- |
+| 2020  | Maestría en economía                | Platzi     |
+| 2020  | Esp. Gerencia de proyectos          | Tecnológica de Bolívar    |
+| 2015  | Diplomado en Docencia Universitaria | Tecnológica de Bolívar    |
+
+## Idiomas
+
+| Año   | Idioma     | Curso                | Entidad que emite diploma             |
+| ----  | ---------- | -------------------- | ------------------------------------- |
+| 2014  | **Ingles** |  Contemporary topics | Uceda International Institute. NJ-USA |
+| 2014  | **Ingles** | Avnazado (B2)        | Instituto Colombo Americano           |
 
 ### Header three
 
