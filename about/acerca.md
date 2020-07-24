@@ -5,7 +5,7 @@ permalink: /about/acerca/
 author_profile: true
 ---
 
-<div align="justify"> Este espacio lo desarrollo como un producto tangible dada la educación continua en ámbitos de programación, análisis de datos y repositorio sobre las investigaciones de economía de la salud en las que participe. A su vez, como una forma de mostrar los pasos que iré dando en **Python** aplicado a los conceptos que se imparten en las investigaciones y los cursos que vaya impartiendo en mi desarrollo profesional. </div>
+Este espacio lo desarrollo como un producto tangible dada la educación continua en ámbitos de programación, análisis de datos y repositorio sobre las investigaciones de economía de la salud en las que participe. A su vez, como una forma de mostrar los pasos que iré dando en **Python** aplicado a los conceptos que se imparten en las investigaciones y los cursos que vaya impartiendo en mi desarrollo profesional. {: style="text-align: justify;"}
 
 # Header one
 
