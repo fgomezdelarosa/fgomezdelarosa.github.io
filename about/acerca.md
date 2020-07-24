@@ -37,7 +37,7 @@ Manejo diferentes programas informáticos enfocados a análisis estadístico de 
 Para mayor información pueden contactarme a mi número de celular +573013706672 o visitando mis redes profesionales. Para conocer las publicaciones cientificas en las que he participado, pueden acceder a mi curriulum en el siguiente enlace [CvLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001593605 "CvLAC")
 {: style="text-align: justify;"}
 
-{% include gallery class="full" caption="Sustentación maestría y eventos científicos." %}
+{% include gallery caption="Sustentación maestría y eventos científicos." %}
 
 ## Educación formal
 
