@@ -4,8 +4,8 @@ main:
     url: /about/acerca/
   - title: "ALZAK"
     url: https://alzakfoundation.org/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Sample Posts"
+    url: /about/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
