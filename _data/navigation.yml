@@ -5,8 +5,8 @@ main:
   - title: "ALZAK"
     url: https://alzakfoundation.org/
   - title: "Blog"
-    url: /
-  - title: "Sample Collections"
-    url: /collection-archive/
+    url: /_pages/categories/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
