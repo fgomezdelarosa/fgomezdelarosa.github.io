@@ -1,7 +1,7 @@
 ---
 title: "Acerca de mí y el propósito de la pagina"
 layout: archive
-permalink: /about/acerca/
+permalink: /acerca/
 author_profile: true
 classes: wide
 gallery:
